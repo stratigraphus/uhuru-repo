@@ -1,1 +1,245 @@
-
+{
+  "offers": [
+    {
+      "data": "Orange GN 3GB",
+      "price": "50000",
+      "validite": "1 mois"
+    },
+    {
+      "data": "MTN GN 3GB",
+      "price": "30000",
+      "validite": "1 mois"
+    },
+    {
+      "data": "Orange GN 5GB",
+      "price": "96000",
+      "validite": "1 mois"
+    },
+    {
+      "data": "Orange GN 15GB",
+      "price": "150000",
+      "validite": "1 mois"
+    }
+  ],
+  "transacs": [
+    {
+      "tel": "00224666766544",
+      "motif": "Dépot d'argent",
+      "date": "07/23/2021",
+      "montant": "24200500",
+      "type": "Credit",
+      "id": 1
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Dépot d'argent",
+      "date": "07/23/2021",
+      "montant": "32700000",
+      "type": "Credit",
+      "id": 2
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Dépot d'argent",
+      "date": "07/23/2021",
+      "montant": "1450000",
+      "type": "Credit",
+      "id": 3
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Transfert d'argent",
+      "date": "07/23/2021",
+      "montant": "-5800000",
+      "type": "Debit",
+      "id": 4
+    },
+    {
+      "tel": "00224621713102",
+      "motif": "Réception de virement",
+      "date": "07/23/2021",
+      "montant": "5800000",
+      "type": "Credit",
+      "id": 5
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Dépot d'argent",
+      "date": "07/23/2021",
+      "montant": "7850000",
+      "type": "Credit",
+      "id": 6
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Dépot d'argent",
+      "date": "07/23/2021",
+      "montant": "5600000",
+      "type": "Credit",
+      "id": 7
+    },
+    {
+      "tel": "00224666766544",
+      "motif": "Transfert d'argent",
+      "date": "07/23/2021",
+      "montant": "-2560000",
+      "type": "Debit",
+      "id": 8
+    },
+    {
+      "tel": "00224621713102",
+      "motif": "Réception de virement",
+      "date": "07/23/2021",
+      "montant": "2560000",
+      "type": "Credit",
+      "id": 9
+    }
+  ],
+  "home_services": [
+    {
+      "service_name": "Achat Smartphone",
+      "service_image": "../../assets/icon/mobile_airtime_icon.svg"
+    },
+    {
+      "service_name": "Achat Data Orange",
+      "service_image": "../../assets/icon/data_bundles_icon.svg"
+    },
+    {
+      "service_name": "Paiement Facture EDG",
+      "service_image": "../../assets/icon/electricity_bill_icon.svg"
+    },
+    {
+      "service_name": "Abonement Canal+",
+      "service_image": "../../assets/icon/cable_tv_icon.svg"
+    },
+    {
+      "service_name": "Recharger son portefeuille",
+      "service_image": "../../assets/icon/fund_wallet_icon.svg"
+    },
+    {
+      "service_name": "Frais universitaires",
+      "service_image": "../../assets/icon/graduation-cap-1.svg"
+    },
+    {
+      "service_name": "Transférer de l'argent",
+      "service_image": "../../assets/icon/funds_transfer_icon.svg"
+    },
+    {
+      "service_name": "Autres services",
+      "service_image": "../../assets/icon/international_topup_icon.svg"
+    }
+  ],
+  "user_data": [
+    {
+      "id": 1,
+      "prenom": "Mohamed",
+      "nom": "Sylla",
+      "password": "symed001",
+      "solde": "87852000",
+      "sexe": "Masculin",
+      "naissance": "22-04-1984",
+      "telephone": "00224621745503",
+      "email": "symed001@gmail.com",
+      "cartes": [
+        {
+          "id": 1,
+          "code": "3700 0000 0000 002",
+          "expiration": "10-09-2023",
+          "banque": "UBA",
+          "date_ajout": "05-02-2020"
+        },
+        {
+          "id": 2,
+          "code": "3700 0000 0100 018",
+          "expiration": "02-08-2026",
+          "banque": "Ecobank",
+          "date_ajout": "14-07-2020"
+        },
+        {
+          "id": 3,
+          "code": "6703 4444 4444 4449",
+          "expiration": "23-02-2025",
+          "banque": "Bicigui",
+          "date_ajout": "11-03-2019"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prenom": "Abdoul Gadiry",
+      "nom": "Doumbouya",
+      "password": "agd045",
+      "solde": "1923273000",
+      "sexe": "Masculin",
+      "naissance": "30-03-1995",
+      "telephone": "00224621713102",
+      "email": "agd@gmail.com",
+      "cartes": [
+        {
+          "id": 1,
+          "code": "4035 5010 0000 0008",
+          "expiration": "13-05-2024",
+          "banque": "Orabank",
+          "date_ajout": "08-04-2021"
+        },
+        {
+          "id": 2,
+          "code": "8171 9999 2766 0000",
+          "expiration": "24-07-2025",
+          "banque": "UBA",
+          "date_ajout": "02-06-2021"
+        },
+        {
+          "id": 3,
+          "code": "3600 6666 3333 44",
+          "expiration": "25-08-2023",
+          "banque": "Ecobank",
+          "date_ajout": "21-03-2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "prenom": "Fatmé",
+      "nom": "Micky",
+      "password": "fatmy21",
+      "solde": "956090000",
+      "sexe": "Féminin",
+      "naissance": "21-03-1995",
+      "telephone": "00224666766544",
+      "email": "fatmy@outlook.fr",
+      "cartes": [
+        {
+          "id": 1,
+          "code": "6011 6011 6011 6611",
+          "expiration": "12-03-2022",
+          "banque": "UBA",
+          "date_ajout": "13-09-2019"
+        },
+        {
+          "id": 2,
+          "code": "5066 9911 1111 1118",
+          "expiration": "17-05-2024",
+          "banque": "UBA",
+          "date_ajout": "21-03-2020"
+        },
+        {
+          "id": 3,
+          "code": "3569 9900 1009 5841",
+          "expiration": "25-10-2025",
+          "banque": "BNG",
+          "date_ajout": "13-05-2021"
+        }
+      ]
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
